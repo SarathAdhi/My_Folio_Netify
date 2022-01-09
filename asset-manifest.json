@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cc81cce.css",
-    "main.js": "/static/js/main.31587799.js",
+    "main.css": "/static/css/main.9be4eccb.css",
+    "main.js": "/static/js/main.e9109e55.js",
     "static/js/787.e4bc3fc9.chunk.js": "/static/js/787.e4bc3fc9.chunk.js",
     "static/media/arduino.jpeg": "/static/media/arduino.6320922e63b671f26da0.jpeg",
     "static/media/hub.png": "/static/media/hub.41317e37755d641975d3.png",
@@ -11,12 +11,12 @@
     "static/media/todo.png": "/static/media/todo.eb29530bce89e32a0ece.png",
     "static/media/hdoc.png": "/static/media/hdoc.0e99b2675ed539995abb.png",
     "index.html": "/index.html",
-    "main.2cc81cce.css.map": "/static/css/main.2cc81cce.css.map",
-    "main.31587799.js.map": "/static/js/main.31587799.js.map",
+    "main.9be4eccb.css.map": "/static/css/main.9be4eccb.css.map",
+    "main.e9109e55.js.map": "/static/js/main.e9109e55.js.map",
     "787.e4bc3fc9.chunk.js.map": "/static/js/787.e4bc3fc9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cc81cce.css",
-    "static/js/main.31587799.js"
+    "static/css/main.9be4eccb.css",
+    "static/js/main.e9109e55.js"
   ]
 }
