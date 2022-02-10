@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.870a9327.css",
+    "main.css": "/static/css/main.49d0b8e5.css",
     "main.js": "/static/js/main.7e5c8c32.js",
     "static/js/787.e4bc3fc9.chunk.js": "/static/js/787.e4bc3fc9.chunk.js",
     "static/media/arduino.jpeg": "/static/media/arduino.6320922e63b671f26da0.jpeg",
@@ -14,12 +14,12 @@
     "static/media/quiz.png": "/static/media/quiz.95eb6a88a16a5b9a6f3a.png",
     "static/media/hdoc.png": "/static/media/hdoc.0e99b2675ed539995abb.png",
     "index.html": "/index.html",
-    "main.870a9327.css.map": "/static/css/main.870a9327.css.map",
+    "main.49d0b8e5.css.map": "/static/css/main.49d0b8e5.css.map",
     "main.7e5c8c32.js.map": "/static/js/main.7e5c8c32.js.map",
     "787.e4bc3fc9.chunk.js.map": "/static/js/787.e4bc3fc9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.870a9327.css",
+    "static/css/main.49d0b8e5.css",
     "static/js/main.7e5c8c32.js"
   ]
 }
