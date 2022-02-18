@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d379373.chunk.css",
+    "main.css": "/static/css/main.4b8b454f.chunk.css",
     "main.js": "/static/js/main.98a6a5e2.chunk.js",
     "main.js.map": "/static/js/main.98a6a5e2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6f3f843c.js",
@@ -8,9 +8,9 @@
     "static/js/2.d95868f8.chunk.js": "/static/js/2.d95868f8.chunk.js",
     "static/js/2.d95868f8.chunk.js.map": "/static/js/2.d95868f8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.60f847e278a7c2877e3a0569cc930985.js": "/precache-manifest.60f847e278a7c2877e3a0569cc930985.js",
+    "precache-manifest.9f02a6b864d42aca196e0b4ef2acfc5b.js": "/precache-manifest.9f02a6b864d42aca196e0b4ef2acfc5b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.6d379373.chunk.css.map": "/static/css/main.6d379373.chunk.css.map",
+    "static/css/main.4b8b454f.chunk.css.map": "/static/css/main.4b8b454f.chunk.css.map",
     "static/js/2.d95868f8.chunk.js.LICENSE.txt": "/static/js/2.d95868f8.chunk.js.LICENSE.txt",
     "static/media/404error.png": "/static/media/404error.7153f3b9.png",
     "static/media/ReactJS for Beginners.png": "/static/media/ReactJS for Beginners.069cf9af.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.6f3f843c.js",
     "static/js/2.d95868f8.chunk.js",
-    "static/css/main.6d379373.chunk.css",
+    "static/css/main.4b8b454f.chunk.css",
     "static/js/main.98a6a5e2.chunk.js"
   ]
 }
