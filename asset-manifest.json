@@ -1,32 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b8b454f.chunk.css",
-    "main.js": "/static/js/main.98a6a5e2.chunk.js",
-    "main.js.map": "/static/js/main.98a6a5e2.chunk.js.map",
+    "main.css": "/static/css/main.4ca51ac7.chunk.css",
+    "main.js": "/static/js/main.cef39d4d.chunk.js",
+    "main.js.map": "/static/js/main.cef39d4d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6f3f843c.js",
     "runtime-main.js.map": "/static/js/runtime-main.6f3f843c.js.map",
-    "static/js/2.d95868f8.chunk.js": "/static/js/2.d95868f8.chunk.js",
-    "static/js/2.d95868f8.chunk.js.map": "/static/js/2.d95868f8.chunk.js.map",
+    "static/js/2.89d65a50.chunk.js": "/static/js/2.89d65a50.chunk.js",
+    "static/js/2.89d65a50.chunk.js.map": "/static/js/2.89d65a50.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9f02a6b864d42aca196e0b4ef2acfc5b.js": "/precache-manifest.9f02a6b864d42aca196e0b4ef2acfc5b.js",
+    "precache-manifest.b1f1593c774962ccdc84fccf4792aa9c.js": "/precache-manifest.b1f1593c774962ccdc84fccf4792aa9c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4b8b454f.chunk.css.map": "/static/css/main.4b8b454f.chunk.css.map",
-    "static/js/2.d95868f8.chunk.js.LICENSE.txt": "/static/js/2.d95868f8.chunk.js.LICENSE.txt",
-    "static/media/404error.png": "/static/media/404error.7153f3b9.png",
+    "static/css/main.4ca51ac7.chunk.css.map": "/static/css/main.4ca51ac7.chunk.css.map",
+    "static/js/2.89d65a50.chunk.js.LICENSE.txt": "/static/js/2.89d65a50.chunk.js.LICENSE.txt",
+    "static/media/404.mp4": "/static/media/404.0b38d122.mp4",
+    "static/media/Quiz.mp4": "/static/media/Quiz.418ac953.mp4",
     "static/media/ReactJS for Beginners.png": "/static/media/ReactJS for Beginners.069cf9af.png",
     "static/media/arduino.jpeg": "/static/media/arduino.1256a4a5.jpeg",
-    "static/media/hdoc.png": "/static/media/hdoc.683820c5.png",
-    "static/media/hub.png": "/static/media/hub.b604dfc0.png",
-    "static/media/image.png": "/static/media/image.f3c7753a.png",
+    "static/media/gmail.png": "/static/media/gmail.dab5880a.png",
+    "static/media/helperdoc.mp4": "/static/media/helperdoc.e31a5979.mp4",
+    "static/media/hub.mp4": "/static/media/hub.42ed8338.mp4",
     "static/media/js.png": "/static/media/js.647d4024.png",
-    "static/media/quiz.png": "/static/media/quiz.78f0fb17.png",
     "static/media/resume.pdf": "/static/media/resume.c8b49a56.pdf",
-    "static/media/todo.png": "/static/media/todo.ddfbed2a.png"
+    "static/media/sarath.png": "/static/media/sarath.da29879c.png",
+    "static/media/todo.mp4": "/static/media/todo.1c6a6f4e.mp4",
+    "static/media/vr.mp4": "/static/media/vr.ef3ae38a.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.6f3f843c.js",
-    "static/js/2.d95868f8.chunk.js",
-    "static/css/main.4b8b454f.chunk.css",
-    "static/js/main.98a6a5e2.chunk.js"
+    "static/js/2.89d65a50.chunk.js",
+    "static/css/main.4ca51ac7.chunk.css",
+    "static/js/main.cef39d4d.chunk.js"
   ]
 }
